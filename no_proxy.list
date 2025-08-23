@@ -31,3 +31,24 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,googlesyndication.com
+
+# STREAMING
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,more.tv
+DOMAIN-SUFFIX,premier.one
+DOMAIN-SUFFIX,ivi.tv
+DOMAIN-SUFFIX,ivi.me
+DOMAIN-SUFFIX,ivi.com
+
+# GAMES
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+
+# AIRLINES
+DOMAIN-SUFFIX,s7.aero
+
+# FINANCE
+DOMAIN-SUFFIX,tinkoff.com
+
+# MEDIA/IT
+DOMAIN-SUFFIX,habr.com
