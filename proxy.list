@@ -1,4 +1,5 @@
-DOMAIN-SUFFIX,amazon.com,PROXYXY
+# Manual blocked sites
+DOMAIN-SUFFIX,amazon.com,PROXY
 DOMAIN-SUFFIX,qatarairways.com,PROXY
 DOMAIN-SUFFIX,reface.ai,PROXY
 DOMAIN-SUFFIX,openai.com,PROXY
