@@ -13,3 +13,5 @@ DOMAIN-SUFFIX,whatismyipaddress.com,PROXY
 DOMAIN-SUFFIX,meet.google.com,PROXY
 DOMAIN-SUFFIX,notion.so,PROXY
 DOMAIN-SUFFIX,amazon.com,PROXY
+DOMAIN-SUFFIX,fast.com,PROXY
+DOMAIN-SUFFIX,doesmyvpn.work,PROXY
