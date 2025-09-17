@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,notion.so,PROXY
 DOMAIN-SUFFIX,amazon.com,PROXY
 DOMAIN-SUFFIX,fast.com,PROXY
 DOMAIN-SUFFIX,doesmyvpn.work,PROXY
+DOMAIN-SUFFIX,clients6.google.com,PROXY
