@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,fast.com,PROXY
 DOMAIN-SUFFIX,doesmyvpn.work,PROXY
 DOMAIN-SUFFIX,clients6.google.com,PROXY
 DOMAIN-SUFFIX,wandb.ai,PROXY
+DOMAIN-SUFFIX,cursor.sh,PROXY
